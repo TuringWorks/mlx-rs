@@ -19,9 +19,9 @@ targets = [
 ]
 
 [dependencies]
-mlx-sys = { package = "mlx-sys-burn", version = "0.2.1" }
-mlx-internal-macros = { package = "mlx-internal-macros-burn", version = "0.25.4" }
-mlx-macros = { package = "mlx-macros-burn", version = "0.25.4" }
+mlx-sys = { package = "mlx-sys-burn", version = "0.2.2" }
+mlx-internal-macros = { package = "mlx-internal-macros-burn", version = "0.25.5" }
+mlx-macros = { package = "mlx-macros-burn", version = "0.25.5" }
 dyn-clone.workspace = true
 half.workspace = true
 mach-sys.workspace = true
